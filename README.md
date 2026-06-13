@@ -1,5 +1,5 @@
 # Data-library
-A storage of valuable datasets across various sectors(Finance, Logistics, Retail, and Real-estate), that have been structured, cleaned, and analysed by yours truly.
+A storage of valuable datasets across various sectors(Finance, Logistics, Retail, and Real-estate), that have been structured, cleaned, and analysed by me.
 ## Sectors Covered
 - Logistics
 - Finance
