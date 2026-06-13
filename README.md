@@ -18,8 +18,3 @@ Each dataset contains:
 - /cleaned — cleaned, analysis-ready version
 - README.md — source, cleaning steps, 
   key variables, and use cases
-
-## Datasets Available
-| Dataset | Sector | Geography | Source | Status |
-|---|---|---|---|---|
-| *(populated as roadmap progresses)* | | | | |
